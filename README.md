@@ -1,10 +1,12 @@
 # PatikaOdev15 - Patika Kütüphane (Kitap Constructor Uygulaması)
-Proje Açıklaması
+
+# Proje Açıklaması
 Bu uygulama, Patika Kütüphane sistemi için bir kitap nesnesi oluşturma örneğidir.
 Amaç:
 "Adı Aylin" kitabını hem default constructor hem de parametreli constructor kullanarak oluşturmak.
 
-Kullanılan Yapılar
+# Kullanılan Yapılar:
+
 Class
 Kitap adında bir sınıf tanımlanmıştır. Class'lar nesne üretmek için şablondur.
 
